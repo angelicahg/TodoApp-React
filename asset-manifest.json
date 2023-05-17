@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TodoList-App-React/static/css/main.8bad525f.css",
-    "main.js": "/TodoList-App-React/static/js/main.ff374de0.js",
+    "main.css": "/TodoList-App-React/static/css/main.8da261bb.css",
+    "main.js": "/TodoList-App-React/static/js/main.f9e82f7e.js",
     "static/js/787.2132b845.chunk.js": "/TodoList-App-React/static/js/787.2132b845.chunk.js",
     "index.html": "/TodoList-App-React/index.html",
     "static/media/delete.svg": "/TodoList-App-React/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
     "static/media/check.svg": "/TodoList-App-React/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.8bad525f.css.map": "/TodoList-App-React/static/css/main.8bad525f.css.map",
-    "main.ff374de0.js.map": "/TodoList-App-React/static/js/main.ff374de0.js.map",
+    "main.8da261bb.css.map": "/TodoList-App-React/static/css/main.8da261bb.css.map",
+    "main.f9e82f7e.js.map": "/TodoList-App-React/static/js/main.f9e82f7e.js.map",
     "787.2132b845.chunk.js.map": "/TodoList-App-React/static/js/787.2132b845.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bad525f.css",
-    "static/js/main.ff374de0.js"
+    "static/css/main.8da261bb.css",
+    "static/js/main.f9e82f7e.js"
   ]
 }

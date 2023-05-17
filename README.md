@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Creacion de una app para crear una lista de Tareas a  base del Curso de Introducción a React.js en Platzi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+¡Hola, !
+
+En este repositorio encontrarás el código para la cracion de nuevas tareas,filtrar las tareas que buscas o ya se eliminar alguna tarea que ya terminaste dentro de tu lista. Para empezar solo debes clonar este repositorio (git clone), instalar sus dependencias (npm i) y ejecutar la aplicación (npm start).
+
+La rama principal contiene el código. En la rama gh-pages encontrarás el código con el que realice el deploy de la aplicación.lo cual lo podras ver con la siguiente URL https://angelicahg.github.io/TodoList-App-React/
 
 ## Available Scripts
 
